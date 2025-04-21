@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask-related
+instance/
+.env
+*.env
+
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+*.cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE folders
+.vscode/
+.idea/
+
+# Compiled HTML or build folders (if any)
+dist/
+build/
+
+# Test results
+htmlcov/
+coverage.xml
+*.cover
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
