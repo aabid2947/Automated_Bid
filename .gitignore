@@ -8,6 +8,9 @@ instance/
 .env
 *.env
 
+# Tesseract tools
+tools/tools_dependencies/tesseract/*.exe
+tools/tools_dependencies/tesseract/tessdata/
 
 # Virtual environment
 venv/
